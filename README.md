@@ -3,7 +3,7 @@ This repository contains implementations of the Rate Monotonic Scheduling (RMS) 
 
 Installation and Execution
 Spin Installation
-Download Spin from http://spinroot.com/spin/whatispin.html.](https://spinroot.com/spin/Man/README.html.
+Download Spin from https://spinroot.com/spin/Man/README.html.
 Compile Spin according to the instructions on the website.
 Files
 RMS.pml: Rate Monotonic Scheduling algorithm model.
